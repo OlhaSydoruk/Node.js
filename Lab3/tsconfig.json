@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "NodeNext",
+    "module": "NodeNext",
+    "outDir": "build",
+    "rootDir": "",
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "lib": [
+      "decorators",
+      "dom",
+      "es5",
+      "scripthost",
+      "es2015.collection"
+    ]
+  }
+}
